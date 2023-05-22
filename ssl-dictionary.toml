@@ -1,111 +1,232 @@
 [[signs]]
-name="CUTE"
+name="cute"
 fsw='M518x545S2ff00482x483S1f540492x521S20500508x519'
 swu='𝠃𝤘𝤳񋾡𝣴𝣵񅰡𝣾𝤛񆇡𝤎𝤙'
 hns=''
 
+[[signs.definitions]]
+text="cute, adorable, sweet"
+pos="subs."
+
+[[signs.definitions]]
+text="aww"
+pos = "excl."
+
+#--------------------------------#
 [[signs]]
-name="DRINK.COFFEE"
+name="coffee"
 fsw='M536x516S10640521x488S10651464x496S28902493x484'
 swu='𝠃𝤪𝤖񀊁𝤛𝣺񀊒𝣢𝤂񉍣𝣿𝣶'
 hns=''
 
+[[signs.definitions]]
+text="coffee"
+pos = "subs."
+
+#--------------------------------#
 [[signs]]
-name="PRIVATE"
+name="private"
 fsw='M521x514S36d00479x486S15001458x487'
 swu = '𝠃𝤛𝤔񎣡𝣱𝣸񁸂𝣜𝣹'
 hns=''
 
+[[signs.definitions]]
+text="private, personal"
+pos = "subs."
+
+[[signs.definitions]]
+text="one's own (things, belongings, affairs)"
+pos = "subs."
+
+#--------------------------------#
 [[signs]]
-name="SECRET"
+name="secret"
 fsw='M518x533S33b00482x483S15000486x502'
 swu='𝠃𝤘𝤧񍘡𝣴𝣵񁸁𝣸𝤈'
 hns = ''
+pos = "subs."
 
+[[signs.definitions]]
+text = "secret, hidden, confidential"
+pos = "subs."
+
+#--------------------------------#
 [[signs]]
-name="COFFEE"
+name="drink-coffee"
 fsw='M512x533S10640493x467S2a300489x497'
 swu='𝠃𝤒𝤧񀊁𝣿𝣥񉴡𝣻𝤃'
 hns=''
 
+[[signs.definitions]]
+text = "to drink coffee, to have a cup of coffee"
+pos = "v.intr"
+
+[[signs.definitions]]
+text = "to serve sme. coffee, to pour sme. a coffee, to have coffee with sme."
+pos = "v.tr"
+
+#--------------------------------#
 [[signs]]
-name="LEAVE"
+name="leave"
 fsw='M525x516S10e20476x486S2890a496x485'
 swu='𝠃𝤟𝤖񀕡𝣮𝣸񉍫𝤂𝣷'
 hns=''
 
+[[signs.definitions]]
+text = "to leave, to go away"
+pos = "v.intr"
+
+[[signs.definitions]]
+text = "goodbye, see ya"
+pos = "excl."
+
+#--------------------------------#
 [[signs]]
-name="TEA"
+name="tea"
 fsw='M514x530S19640486x470S2a300491x494'
 swu='𝠃𝤔𝤤񃢁𝣸𝣨񉴡𝣽𝤀'
 hns=''
 
+[[signs.definitions]]
+text = "tea, tisane, beverage brewed by steeping leaves in hot water"
+pos = "subs."
+
+#--------------------------------#
 [[signs]]
-name="DRINK.TEA"
+name="drink-tea"
 fsw='M535x519S19640512x496S19651465x495S28902487x482'
 swu='𝠃𝤩𝤙񃢁𝤒𝤂񃢒𝣣𝤁񉍣𝣹𝣴'
 hns=''
 
+[[signs.definitions]]
+text = "to drink tea, to have a cup of tea"
+pos = "v.intr"
+
+[[signs.definitions]]
+text = "to serve sme. tea, to pour sme. a cup of tea, to have tea with sme."
+pos = "v.tr"
+
+#--------------------------------#
 [[signs]]
-name="PEE"
+name="pee"
 fsw='M516x531S14012485x469S25104498x498'
 swu='𝠃𝤖𝤥񁠓𝣷𝣧񇹥𝤄𝤄'
 hns=''
 
+[[signs.definitions]]
+text = "to pee, to piss, to urinate"
+pos = "v.intr"
+
+#--------------------------------#
 [[signs]]
-name="POO"
+name="poo"
 fsw='M510x535S20350492x465S22a04493x485S15250490x504'
 swu='𝠃𝤐𝤩񆅱𝣾𝣣񆿅𝣿𝣷񁼑𝣼𝤊'
 hns=''
 
+[[signs.definitions]]
+text = "to poop, to go poo, to take a shit"
+pos = "v.intr."
+
+#--------------------------------#
 [[signs]]
-name="BABY"
+name="baby"
 fsw='M521x516S36d00479x485S1703e464x485S20600456x505'
 swu='𝠃𝤛𝤖񎣡𝣱𝣷񂨿𝣢𝣷񆉁𝣚𝤋'
 hns=''
 
+[[signs.definitions]]
+text = "baby, infant"
+pos = "subs."
+
+#--------------------------------#
 [[signs]]
-name="SUSHI"
+name="sushi"
 fsw='M514x524S17131494x490S11557487x497S20800498x476'
 swu='𝠃𝤔𝤞񂪒𝤀𝣼񀠸𝣹𝤃񆌁𝤄𝣮'
 hns=''
 
+[[signs.definitions]]
+text = "sushi"
+pos = "subs."
+
+#--------------------------------#
 [[signs]]
-name="TIME"
+name="time"
 fsw='M536x520S1dc27513x490S2890a487x480S1eb10464x492'
 swu='𝠃𝤪𝤚񅊨𝤓𝣼񉍫𝣹𝣲񅠱𝣢𝣾'
 hns=''
 
+[[signs.definitions]]
+text = "time, moment"
+pos = "subs."
+
+#--------------------------------#
 [[signs]]
-name="SLEEP"
+name="sleep"
 fsw='M542x518S30007482x483S10e21512x477'
 swu='𝠃𝤰𝤘񌀈𝣴𝣵񀕢𝤒𝣯'
 hns=''
 
+[[signs.definitions]]
+text = "to sleep, to nap, to fall asleep"
+pos = "v.intr."
+
+#--------------------------------#
 [[signs]]
-name="SLEEPY"
+name="sleepy"
 fsw='M546x518S10e21516x482S30007482x483S31b30488x495S20600505x471'
 swu='𝠃𝤴𝤘񀕢𝤖𝣴񌀈𝣴𝣵񌩑𝣺𝤁񆉁𝤋𝣩'
 hns=''
 
+[[signs.definitions]]
+text = "sleepy, tired, sleepiness, tiredness"
+pos = "subs."
+
+#--------------------------------#
 [[signs]]
-name="TAKE.TRAIN"
+name="take_train"
 fsw='M508x546S11000492x519S11030492x455S26600492x486'
 swu='𝠃𝤎𝤴񀘁𝣾𝤙񀘱𝣾𝣙񈙁𝣾𝣸'
 hns=''
 
+[[signs.definitions]]
+text = "to take the train, to travel by train"
+pos = "v.intr."
+
+[[signs.definitions]]
+text = "to go smwh. by train, to take the train to smwh."
+pos = "v.tr."
+
+#--------------------------------#
 [[sign]]
-name="TRAIN"
+name="train"
 fsw='M514x525S11000492x498S26b00487x476'
 swu='𝠃𝤔𝤟񀘁𝣾𝤄񈠡𝣹𝣮'
 hns=''
 
+[[signs.definitions]]
+text = "train, locomotive"
+pos = "subs."
+
+#--------------------------------#
 [[sign]]
-name="BAD.TASTE"
+name="bad-taste"
 fsw = 'M538x544S33b00482x483S12800493x511S2e200518x512'
 swu='𝠃𝤬𝤲񍘡𝣴𝣵񀼁𝣿𝤑񋓁𝤘𝤒'
 
+[[signs.definitions]]
+text = "to taste bad, to have an unpleasant taste"
+pos = "v.intr."
+
+#--------------------------------#
 [[sign]]
-name="GOOD.TASTE"
+name="good-taste"
 fsw='M536x526S33b00482x483S13d00507x511S22114504x503'
 swu = '𝠃𝤪𝤠񍘡𝣴𝣵񁛡𝤍𝤑񆱵𝤊𝤉'
+
+[[signs.definitions]]
+text = "to taste good, to have a pleasant taste"
+pos = "v.intr."
+
+#--------------------------------#
