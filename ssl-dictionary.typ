@@ -14,7 +14,7 @@
     
     #sym.copyright 2023 Bethany E. Toma \& Kim Korsæth. All rights reserved.
 
-    This version last updated on 29. April 2023.
+    This version last updated on 22. May 2023.
   ],
 )
 
@@ -31,17 +31,9 @@
 = Dictionary
 
 #sign(
-  "sign-images/baby.png",
+  "sign-images/baby.svg",
   "BABY",
   "subs.",
   "",
   [baby, infant, newborn]
-)
-
-#sign(
-  "sign-images/coffe.png",
-  "COFFEE",
-  "subs.",
-  "",
-  [coffee]
 )
