@@ -14,14 +14,18 @@ pos = "excl."
 
 #--------------------------------#
 [[signs]]
-name="coffee"
+name="drink-coffee"
 fsw='M536x516S10640521x488S10651464x496S28902493x484'
 swu='𝠃𝤪𝤖񀊁𝤛𝣺񀊒𝣢𝤂񉍣𝣿𝣶'
 hns=''
 
 [[signs.definitions]]
-text="coffee"
-pos = "subs."
+text = "to drink coffee, to have a cup of coffee"
+pos = "v.intr"
+
+[[signs.definitions]]
+text = "to serve sme. coffee, to pour sme. a coffee, to have coffee with sme."
+pos = "v.tr"
 
 #--------------------------------#
 [[signs]]
@@ -52,18 +56,14 @@ pos = "subs."
 
 #--------------------------------#
 [[signs]]
-name="drink-coffee"
+name="coffee"
 fsw='M512x533S10640493x467S2a300489x497'
 swu='𝠃𝤒𝤧񀊁𝣿𝣥񉴡𝣻𝤃'
 hns=''
 
 [[signs.definitions]]
-text = "to drink coffee, to have a cup of coffee"
-pos = "v.intr"
-
-[[signs.definitions]]
-text = "to serve sme. coffee, to pour sme. a coffee, to have coffee with sme."
-pos = "v.tr"
+text="coffee"
+pos = "subs."
 
 #--------------------------------#
 [[signs]]
