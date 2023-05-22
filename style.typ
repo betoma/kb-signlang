@@ -81,7 +81,7 @@ set page(
     if this-page == 1 {
         [] // don't display anything at the top in the first page
     } else {
-        let chapter-after = query(heading.where(level:2), after: loc)
+        let chapter-after = query(heading.where(level:2).after(loc), loc)
         let this-chapter = if chapter-after.len() > 0 {
             chapter-after.first()
         } else {
@@ -95,7 +95,7 @@ set page(
             }
         } else { // odd page
             if this-chapter == none or this-chapter.location().page() != this-page {
-                let headings-before = query(heading, before:loc)
+                let headings-before = query(selector(heading).before(loc), loc)
                 let this-heading = if headings-before.len() > 0 {
                     headings-before.last()
                 } else {
@@ -137,7 +137,7 @@ show heading.where(level: 1): it => {
 // Configure chapter headings.
 show heading.where(level: 2): it => {
     locate(loc => {
-        let parts-before = query(heading.where(level:1), before:loc)
+        let parts-before = query(heading.where(level:1).before(loc), loc)
             let this-part = if parts-before.len() > 0 {
                 parts-before.last()
             } else {
